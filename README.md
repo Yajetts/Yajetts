@@ -17,7 +17,4 @@ I like using Machine Learning and AI as pillars in building valuable products an
   <a href="mailto:yajatsoni@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
   </a>
-  <a href="https://github.com/Yajetts" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  </a>
 </p>
