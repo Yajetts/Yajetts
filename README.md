@@ -1,20 +1,20 @@
  # <h1 align="center">Hey there! 🙋‍♂️ I'm Yajat</h1>
 
-
-
 <h3 align ="center"> Computer Science student at PES University, Bangalore, focused on Machine Learning and AI. </h3>
 
-<!--
-**Yajetts/Yajetts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Find me on:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/yajat-soni-2174a028b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+ 
+  <a href="mailto:yajatsoni@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
+  </a>
+
+  <a href="https://github.com/Yajetts" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+</p>
