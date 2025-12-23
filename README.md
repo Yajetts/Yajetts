@@ -2,7 +2,7 @@
 
 
 
-<h2 align ="center"> Computer Science student at PES University, Bangalore, focused on Machine Learning and AI. </h2>
+<h3 align ="center"> Computer Science student at PES University, Bangalore, focused on Machine Learning and AI. </h3>
 
 <!--
 **Yajetts/Yajetts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
