@@ -3,7 +3,7 @@
 <h3 align ="center"> Computer Science student at PES University, Bangalore, focused on Machine Learning and AI. </h3>
 
 
-## ⚙️ About Me
+## <h3> ⚙️ About Me <h3>
 I like using Machine Learning and AI as pillars in building valuable products and solutions that aid in solving real world problems.
 
 
