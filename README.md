@@ -1,4 +1,5 @@
-  ## Hey there! 🙋‍♂️ I'm Yajat 
+## Hey there! 🙋‍♂️ I'm Yajat 
+# I'm a student at PES University, Bangalore, disciplining in Computer Science with a special focus on Machine Learning and AI 
 
 <!--
 **Yajetts/Yajetts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
