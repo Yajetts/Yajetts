@@ -14,6 +14,8 @@ I like using Machine Learning and AI as pillars in building valuable products an
   Read your long and boring but important legal documents, extract information within seconds. (multiple AI agents and OCR)
 - [aws-resume-analyzer](https://github.com/Yajetts/aws-resume-analyzer)
   A serverless resume reader made with AWS Textract and Bedrock, go through hundreds and thousands of resumes without breaking a sweat.
+- [bharatflow-ai](https://github.com/Yajetts/bharatflow-ai)
+  Solving the age-old traffic and congestion problem on Indian roads using AWS Lambda functions and Bedrock as an AI strategy layer
 - [Football-Stats-Reporter](https://github.com/Yajetts/Football-Stats-Reporter)
   A versatile RAG pipeline, uses vector emeddings and APIs to answer which football player scored in what match, match results and stuff.
 
